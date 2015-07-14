@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Jul 13 15:41:11 CST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\ZhuJiahui705\\Desktop\\ZhuNLP.jar
+manifest.mergeall=true
+manifest.mainclass=nlp.WordSegment
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
